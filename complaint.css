@@ -1,0 +1,19 @@
+
+.label{
+font-size:25px;
+font-family:Arial, Helvetica, sans-serif;
+margin-top:15px;
+padding:5px;
+}
+h1{
+margin-top:90px;
+text-align:center;
+}
+.main{
+margin:auto;
+padding:30px;
+border:1px solid rgba(0, 0, 0, .3);
+}
+.sub{
+margin-top:10px;
+}

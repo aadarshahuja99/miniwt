@@ -1,0 +1,17 @@
+
+.form{
+margin:auto;
+margin-top:50px;
+padding:30px;
+max-width:500px;
+border: 1px solid rgba(0, 0, 0, .3);
+height:300px;
+border-radius:8px;
+}
+h1{
+margin-left:700px;
+margin-top:50px;
+}
+.content{
+margin-top:100px;
+}

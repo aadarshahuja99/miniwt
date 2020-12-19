@@ -1,0 +1,37 @@
+
+.bg-dark{
+    transition:500ms ease;
+    background:transparent !important;
+}
+.bg-dark.scrolled{
+    background:black !important;
+}
+#brand{
+    color:red;
+    font-size:40px;
+}
+.image{
+float:left;
+}
+.header{
+margin-top:100px;
+font-size:22px;
+font-family: 'Montserrat', sans-serif;
+margin-left:40px;
+padding:50px;
+}
+.navbar .navbar-nav li a{
+    color:#60dbfc !important;
+    font-size:20px;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+color:black !important;
+}
+.middle{
+    margin-top: 70px;
+}
+.footer{
+    margin-top: 50px;
+    width:100%;
+    background-color: lightblue;
+}
